@@ -1,0 +1,13 @@
+{
+  "name": "mySQLNode",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.10.6",
+    "http-server": "^0.9.0",
+    "mysql": "^2.5.4",
+    "requirejs": "^2.1.19"
+  },
+  "devDependencies": {
+    "jquery": "^2.2.3"
+  }
+}
